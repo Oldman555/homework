@@ -18,14 +18,14 @@ print('Hello world') # This is a sample Python script.
 a = 12
 b = 89
 c = 1
-print( a, '+', b, '-', c)
+print( a + b - c)
 
 # 1 st program
 a = 9
 b = 5
 print((a*b)**0,5)
 # 2 nd program
-a = 9.99>9,98
+a = 9.99>9.98
 b = 1000<1000.1
 print(a and b )
 # 3 rd program
